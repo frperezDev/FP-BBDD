@@ -114,8 +114,3 @@ CREATE TABLE mecanicosIncidencias (
    ON UPDATE CASCADE
 );
 
-
-
-
-
-
